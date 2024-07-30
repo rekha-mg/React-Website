@@ -1,2 +1,2 @@
 Developed a static web site
-npm start-- To test 
+To test   type  -- npm start
